@@ -2,6 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W00 99 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W00 60 L21 Trying something
 ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
