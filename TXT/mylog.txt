@@ -2,6 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 99 L02 CLASSROOM meetings related
+ZCZC W01 99 L02 CLASSROOM meetings related
+
 ZCZC W00 99 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W00 60 L21 Trying something
 ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
