@@ -26,3 +26,11 @@ Operating System 2024-2
   A comprehensive tutorial on using regular expressions including practical examples and tips.
 * [Bash Scripting on Linux for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=jmZQBQ5nPixgrH6n) --- 
   An in-depth YouTube playlist covering various aspects of Bash scripting on Linux for beginners.
+* [Symmeteric and Asymmetric Encryption Explained](https://www.youtube.com/watch?v=o_g-M7UBqI8) ---
+  Great learning material for introduction to encryption and the difference between symmetric and asymmetric encryption
+* [Basic File Encryption With GPG](https://youtu.be/DMGIlj7u7Eo?si=nOpjUSHcgrgj4MSe) ---
+  Tutorial video about basic use of GPG.
+
+<br>
+<br>
+#### REV: Thu 12 Sep 2024 17:00
