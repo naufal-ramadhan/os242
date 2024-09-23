@@ -30,7 +30,13 @@ Operating System 2024-2
   Great learning material for introduction to encryption and the difference between symmetric and asymmetric encryption
 * [Basic File Encryption With GPG](https://youtu.be/DMGIlj7u7Eo?si=nOpjUSHcgrgj4MSe) ---
   Tutorial video about basic use of GPG.
+* [Partition Scheme Explained](https://www.youtube.com/watch?v=vMB8uyosdOA) ---
+  Basic introduction about partition and its example.
+* [Explaining File System](https://www.youtube.com/watch?v=_h30HBYxtws) ---
+  Video explaining how filesystem works and its example.
+* [Virtual Hard Disk](https://www.youtube.com/watch?v=tTBt7_aACPI) ---
+  Introduction about virtual hard disks.
 
 <br>
 <br>
-#### REV: Thu 12 Sep 2024 17:00
+#### REV: Sun 22 Sep 2024 13:00

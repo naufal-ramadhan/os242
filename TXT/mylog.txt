@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 180 L13 Assignment #03
+ZCZC W03 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 10 L41 TXT/mylog.txt related.
+ZCZC W03 30 L40 TXT/ related in general.
+ZCZC W03 60 L62 Backup Virtual Debian Guest
+ZCZC W03 60 L32 YouTube: watching OS related topics, etc
+ZCZC W03 120 L06 Browsing/GSGS related
+ZCZC W03 120 L24 Scripting in general.
+
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 40 L05 Pop Quiz 
 ZCZC W02 30 L12 L05 Quiz related including studying
