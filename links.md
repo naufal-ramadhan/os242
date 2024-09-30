@@ -36,6 +36,10 @@ Operating System 2024-2
   Video explaining how filesystem works and its example.
 * [Virtual Hard Disk](https://www.youtube.com/watch?v=tTBt7_aACPI) ---
   Introduction about virtual hard disks.
+* [Creating a simple Makefile](https://youtu.be/_r7i5X0rXJk?si=iW8sga0Sy_Lw3NSl) ---
+  Great introduction to create your very first Makefile.
+* [Linux Programming Playlist](https://youtube.com/playlist?list=PLysdvSvCcUhbrU3HhGhfQVbhjnN9GXCq4&si=HzqXJKVFn0UHiHKm) ---
+  A YouTube playlist designed to teach you the fundamentals of Linux programming and its interface.
 
 <br>
 <br>
