@@ -40,7 +40,11 @@ Operating System 2024-2
   Great introduction to create your very first Makefile.
 * [Linux Programming Playlist](https://youtube.com/playlist?list=PLysdvSvCcUhbrU3HhGhfQVbhjnN9GXCq4&si=HzqXJKVFn0UHiHKm) ---
   A YouTube playlist designed to teach you the fundamentals of Linux programming and its interface.
+* [Understanding Memory](https://youtu.be/XTMyJ5l0GLg?si=BQsTzx-KXXVXqcFg) ---
+  Linux Crash Course about understanding memory usage.
+* [Booting Linux with Low Memory](https://youtu.be/obRacKML3vA?si=PRd8WTmzVqciPRDx) ---
+  A Video demonstrating what happens when you boot linux with too little memory.
 
 <br>
 <br>
-#### REV: Sun 22 Sep 2024 13:00
+#### REV: Tue 08 Oct 2024 08:00
