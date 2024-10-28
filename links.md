@@ -44,7 +44,12 @@ Operating System 2024-2
   Linux Crash Course about understanding memory usage.
 * [Booting Linux with Low Memory](https://youtu.be/obRacKML3vA?si=PRd8WTmzVqciPRDx) ---
   A Video demonstrating what happens when you boot linux with too little memory.
+* [Understanding mmap](https://www.youtube.com/watch?v=8hVLcyBkSXY) ---
+  Learning Video about memory mapping with mmp.
+* [Simple Shared Memory in C](https://www.youtube.com/watch?v=rPV6b8BUwxM) ---
+  Simple Shared Memory in C
+
 
 <br>
 <br>
-#### REV: Tue 08 Oct 2024 08:00
+#### REV: Tue 29 Oct 2024 03:00
