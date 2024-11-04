@@ -48,8 +48,12 @@ Operating System 2024-2
   Learning Video about memory mapping with mmp.
 * [Simple Shared Memory in C](https://www.youtube.com/watch?v=rPV6b8BUwxM) ---
   Simple Shared Memory in C
+* [Docusaurus Introduction](https://www.youtube.com/watch?v=xKOhIJQi84w) --- 
+  Build website with Docusaurus
+* [Exploring Memory Allocator in Linux C](https://youtu.be/c7xf5dvUb_Q?si=LXGCzQsAPhO_pMfb) ---
+  Fun and informative video about memory allocator in Linux C.
 
 
 <br>
 <br>
-#### REV: Tue 29 Oct 2024 03:00
+#### REV: Mon 04 Nov 2024 20:00
