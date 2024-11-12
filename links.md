@@ -52,8 +52,12 @@ Operating System 2024-2
   Build website with Docusaurus
 * [Exploring Memory Allocator in Linux C](https://youtu.be/c7xf5dvUb_Q?si=LXGCzQsAPhO_pMfb) ---
   Fun and informative video about memory allocator in Linux C.
+* [LFS Youtube Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+  Helpful youtube playlist for your lfs journey.
+* [Discussing LFS](https://www.youtube.com/watch?v=1eOdaXS-wVE&t=46s) ---
+  Great and insightful video regarding LFS.
 
 
 <br>
 <br>
-#### REV: Mon 04 Nov 2024 20:00
+#### REV: Tue 12 Nov 2024 08:00

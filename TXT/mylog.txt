@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W08 180 L09 Pop Quiz Related
+ZCZC W08 60 L03 GitHub and git related, including commit, push, pull.
+ZCZC W08 20 L40 TXT/ related in general.
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 20 L62 Install Virtual Debian Guest
+ZCZC W08 30 L62 Backup Virtual Debian Guest.
+ZCZC W08 70 L08 OS Chat related (WA, LINE) with Friend.
+ZCZC W08 100 L02 CLASSROOM meetings related.
+ZCZC W08 100 L02 CLASSROOM meetings related.
+
 ZCZC W07 60 L03 GitHub and git related, including commit, push, pull.
 ZCZC W07 20 L40 TXT/ related in general.
 ZCZC W07 180 L17 Assignment #07
